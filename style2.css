@@ -1,0 +1,85 @@
+body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    background-color: #bcc3c9;
+    color: #000000;
+    border-radius: 15 px solid black;
+    line-height: 2.0;
+    
+}
+
+header, footer {
+background-color: rgb(60, 81, 99);
+color: rgb(180, 179, 179);
+text-align: center;
+}
+
+header h2 p {
+margin-bottom: 5px;
+}
+
+a {
+color: rgb(135, 135, 177);
+text-decoration: dotted;
+margin: 100 px;
+}
+
+main h1 h2 h3 p {
+
+    max-width: 800px;
+    margin: 10px auto;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(94, 85, 85, 0.1);
+
+
+} 
+
+section {
+    margin-bottom: 45px;
+}
+
+section h2 {
+    color: #425369;
+    border-bottom: 2px solid #3a506d;
+    padding-bottom: 5px;
+}
+
+section h1 b {
+color: rgb(49, 49, 51)
+}
+
+section h3 {
+color: rgb(67, 68, 70);
+border-bottom: 2px solid #3a506d;
+}
+
+
+
+article {
+    margin-top: 15px;
+    padding: 20px;
+    background: #f3f4f6;
+    border-left: 5px solid #505b72;
+    border-radius: 8px;
+}
+
+ul, ol {
+    margin-left: 23 px;
+}
+
+img {
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+section a href {
+color: rgb(37, 45, 51)
+
+}
+ 
+
+
+
+
